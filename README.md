@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=gitdxb&color=yellow)
 
+
+| <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitdxb&" alt="gitdxb" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=gitdxb&show_icons=true&locale=en" alt="gitdxb" /> | <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitdxb&show_icons=true&locale=en&layout=compact" alt="gitdxb" /> |
+|----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+
